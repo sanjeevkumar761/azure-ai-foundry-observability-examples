@@ -2,6 +2,10 @@
 
 This project demonstrates how to enable observability and tracing for AI agents and conversational workflows using Azure AI Foundry, OpenTelemetry, and Azure Monitor. It includes example scripts for integrating telemetry into AI agent services and LangGraph-based conversational agents.
 
+## Demo Video
+Watch a walkthrough of the project on YouTube:  
+[https://www.youtube.com/watch?v=Qa1wL7Iahfg](https://www.youtube.com/watch?v=Qa1wL7Iahfg)
+
 ## Features
 
 - **OpenTelemetry Tracing**: Collects and exports traces for AI agent interactions.
