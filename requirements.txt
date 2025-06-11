@@ -1,0 +1,8 @@
+azure-ai-projects==1.0.0b11
+azure-identity
+azure-monitor-opentelemetry
+opentelemetry
+langgraph
+langchain_openai
+langchain_community
+python-dotenv
