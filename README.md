@@ -5,6 +5,9 @@ This project demonstrates how to enable observability and tracing for AI agents 
 ## Demo Video
 [![Watch the demo video](https://img.youtube.com/vi/Qa1wL7Iahfg/0.jpg)](https://www.youtube.com/watch?v=Qa1wL7Iahfg)
 
+# Link to Agent Evaluation
+[Agent Evaluation](AGENT_EVALUATION.md)
+
 ## Features
 
 - **OpenTelemetry Tracing**: Collects and exports traces for AI agent interactions.
@@ -36,8 +39,14 @@ This project demonstrates how to enable observability and tracing for AI agents 
 Install dependencies with:
 
 ```sh
-pip install -r requirements.txt
+pip install -r requirements.txt  
 ```
+
+For AI Agent tracing with Azure AI Agent service in tracing-example-ai-agent-service.py, you need to - 
+
+```sh
+pip install azure-ai-projects==1.0.0b11
+```   
 
 ## Setup
 

@@ -1,4 +1,4 @@
-azure-ai-projects==1.0.0b11
+azure-ai-projects
 azure-identity
 azure-monitor-opentelemetry
 opentelemetry
