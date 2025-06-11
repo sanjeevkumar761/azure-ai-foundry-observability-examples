@@ -1,4 +1,6 @@
-# Script: evaluate-azure-ai-agent-qauality.py
+# Agent Evaluation with Azure AI Foundry  
+
+Script: evaluate-azure-ai-agent-qauality.py  
 
 ## Overview
 
@@ -46,7 +48,7 @@ from user_functions import user_functions
 load_dotenv()
 ```
 
-### 2. Azure AI Client Initialization
+### 2. Azure AI Foundry Agent Client and Project Client Initialization
 
 ```python
 endpoint = os.getenv("AZURE_AI_FOUNDRY_PROJECT_ENDPOINT")
